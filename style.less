@@ -1,59 +1,67 @@
-/* LESS comment markup is just like CSS and will be seen on view source.*/
-
-// This comment, won't be seen in the markup. It will be invisible. Visit http://demo.pagelines.com/theming for examples on using LESS with PageLines
-
-//Let's see what we can do.
-
+// Set the font color to the same as the link color
 .wkspColor {
   color: @pl-link;
 }
 
+// Set the color of a section to a very faint grey/white color
 .wkspLightSection {
   background: @grayLighter;
 }
 
+// Set the font size to a really small size, and a bolder weight
 .wkspSmallText {
   font-size: 1.0em;
   font-weight: 400;
   text-transform: uppercase;
 }
 
+// Set the weight of the text to a lighter weight
 .wkspH2 {
   font-weight: 200;
 }
 
+// Add some space on top and below where this is placed
 .wkspBuffer {
   padding: 2em 0;
 }
 
+// Add some space all around (top, bottom, left & right) where this is placed
 .wkspSpacing {
   padding: 2em;
 }
+
+// This class sets the maximum height for the current section - Use wisely as it can pull up the rest of your sections if not used properly.
 
 .wkspCutoff {
   max-height: 500px;
 }
 
+// Turn the background of a section to white
 .wkspWhiteSection {
   background: @white;
 }
 
+// Set the space between lines to 0 making the lines really close together.
 .wkspLineHeight {
   line-height: 0;
 }
 
+// Set the background color of a section to the same color as the links (as found in the color options panel).
 .wkspColorSection {
   background: @pl-link;
 }
 
+// Darken the font so it contrasts with where it is placed
 .wkspFontDark {
   color: darken(@pl-text, 80%);
 }
 
+// Lighten the font so it contrasts with where it is placed
 .wkspFontLight {
   color: lighten(@pl-text, 80%);
 }
 
+// Specific to the sharebar in the footer, this will make the text for the word SHARE appear lighter.  Take this out if you're using it somewhere else.
 .pl-sharebar-text {
   display: inline-block;
   vertical-align: top;
@@ -64,5 +72,5 @@
   font-style: normal;
   text-transform: uppercase;
   letter-spacing: .1em;
-  color: @pl-text;
+  color: @white;
 }

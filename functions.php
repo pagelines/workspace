@@ -28,3 +28,4 @@ require_once( dirname(__FILE__) . '/setup.php' );
 
 	// The following filter will add the font  Ubuntu into the font array $thefoundry.
 	// This makes the font available to the framework and the user via the admin panel.
+add_filter( 'render_css_posix_', '__return_true' );
