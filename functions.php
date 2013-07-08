@@ -31,7 +31,7 @@ class workspaceTheme {
           <a href="http://jamesgiroux.ca" target="_blank" class="btn btn-info btn-mini"><i class="icon icon-globe"></i>  <?php _e('Website','workspace');?></a>
         </div>
         <div class="span6 zmb" style="text-align:center;">
-          <a href="http://www.pagelines.com/forum/" target="_blank" class="btn btn-info btn-mini"><i class="icon icon-ambulance"></i>  <?php _e('Support','workspace');?></a>
+          <a href="http://www.pagelines.com/forum/forum/68-store-products/" target="_blank" class="btn btn-info btn-mini"><i class="icon icon-ambulance"></i>  <?php _e('Support','workspace');?></a>
         </div>
       </div>
       <div style="margin-top:20px;color:#444;">
