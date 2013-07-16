@@ -74,3 +74,51 @@
   letter-spacing: .1em;
   color: @white;
 }
+
+// Making sure the ibox colors are good to go.
+.pagelines .ibox .ibox-icon-border.media-type-icon {
+  i { color: @linkColor; }
+  &:hover{
+  background: @linkColor;
+    i { color: @baseColor; }
+  }
+}
+
+.pagelines .ibox .ibox-media .ibox-icon-border.media-type-icon {
+  -webkit-border-radius: 500px;
+  -moz-border-radius: 500px;
+  border-radius: 500px;
+  width: auto;
+  height: auto;
+  line-height: 3em;
+  padding: 2em;
+  border: 1px solid transparent;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.pagelines .ibox .ibox-media .ibox-icon-border.media-type-icon i {
+  font-size: 7em;
+  color: @linkColor;
+  display: inline-block;
+}
+
+.pagelines .navbar .navline.pull-right {
+  float: right;
+  position: relative;
+  margin-top: 3em;
+}
+.pagelines .navbar .plbrand img {
+  max-height: 8em;
+  padding: 5px 1%;
+}
+.pagelines .navbar .navline > li {
+  display: block;
+  float: left;
+}
+.pagelines .navbar .navline {
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+}

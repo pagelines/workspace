@@ -8,26 +8,8 @@ Author URI: http://jamesgiroux.ca
 Tags: developer
 
 Template: pagelines
+V3: true
 
 */
 
 /* These edits are currently in CSS because LESS will not compile them properly */
-
-.navbar .navline.pull-right {
-  float: right;
-  position: relative;
-  margin-top: 3em;
-}
-.navbar .plbrand img {
-  max-height: 8em;
-  padding: 5px 1%;
-}
-.navbar .navline > li {
-  display: block;
-  float: left;
-}
-.navbar .navline {
-  font-size: 18px;
-  font-weight: 600;
-  text-transform: uppercase;
-}
