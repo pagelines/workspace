@@ -48,7 +48,7 @@ class workspaceTheme {
           <li style="margin-bottom:7px;"><strong><?php _e('4.','workspace');?> </strong><?php _e('In the Global Options panel, locate the Import/Export area and click on it.','workspace');?></li>
           <li style="margin-bottom:7px;"><strong><?php _e('5.','workspace');?> </strong><?php _e('To recreate the demo, click the Child Theme Config Import button.','workspace');?></li>
           <li style="margin-bottom:7px;"><strong><?php _e('6.','workspace');?> </strong><?php _e('That\'s it! Templates and look will all be loaded.  If you want to create more pages, in your Templates area you can apply any of the templates from the demo to new pages.','workspace');?></li>
-          <li style="margin-bottom:7px;"><strong><?php _e('6.','workspace');?> </strong><?php _e('To edit the main color of the theme, simply change the Link Color in Global Options and your entire theme will change to match.','workspace');?></li>
+          <li style="margin-bottom:7px;"><strong><?php _e('7.','workspace');?> </strong><?php _e('To edit the main color of the theme, simply change the Link Color in Global Options and your entire theme will change to match.','workspace');?></li>
 				</ul>
 			</div>
 		<?php
@@ -62,7 +62,7 @@ class workspaceTheme {
 		$theme_settings['workspace_theme_config'] = array(
 		   'pos'                  => 50,
 		   'name'                 => __('Workspace Theme','workspace'),
-		   'icon'                 => 'icon-circle',
+		   'icon'                 => 'icon-chevron-sign-up',
 		   'opts'                 => array(
 		   		array(
 		       	    'type'          => 'template',
