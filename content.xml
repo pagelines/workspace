@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.5.2" created="2013-07-08 18:06" -->
+<!-- generator="WordPress/3.5.2" created="2013-07-22 01:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,645 +26,180 @@
 >
 
 <channel>
-	<title>Workspace Child Theme</title>
-	<link>http://flatr.dev</link>
+	<title>Child Theme Installation</title>
+	<link>http://childtheme.dev</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Mon, 08 Jul 2013 18:06:22 +0000</pubDate>
+	<pubDate>Mon, 22 Jul 2013 01:33:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://flatr.dev</wp:base_site_url>
-	<wp:base_blog_url>http://flatr.dev</wp:base_blog_url>
+	<wp:base_site_url>http://childtheme.dev</wp:base_site_url>
+	<wp:base_blog_url>http://childtheme.dev</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>transforme</wp:author_login><wp:author_email>info@transforme.ca</wp:author_email><wp:author_display_name><![CDATA[transforme]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>transforme</wp:author_login><wp:author_email>jgiroux@transforme.ca</wp:author_email><wp:author_display_name><![CDATA[transforme]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
-	<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>navbar</wp:term_slug><wp:term_name><![CDATA[NavBar]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>navbar</wp:term_slug><wp:term_name><![CDATA[NavBar]]></wp:term_name></wp:term>
 
 	<generator>http://wordpress.org/?v=3.5.2</generator>
 
 	<item>
-		<title>tci-5</title>
-		<link>http://flatr.dev/?attachment_id=14</link>
-		<pubDate>Fri, 28 Jun 2013 02:14:48 +0000</pubDate>
+		<title>info.txt.txt</title>
+		<link>http://childtheme.dev/?attachment_id=4</link>
+		<pubDate>Mon, 22 Jul 2013 00:23:08 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://flatr.dev/wp-content/uploads/2013/06/tci-5.jpg</guid>
+		<guid isPermaLink="false">http://childtheme.dev/wp-content/uploads/2013/07/info.txt.txt</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[http://childtheme.dev/wp-content/uploads/2013/07/info.txt.txt]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date>2013-06-28 02:14:48</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 02:14:48</wp:post_date_gmt>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date>2013-07-22 00:23:08</wp:post_date>
+		<wp:post_date_gmt>2013-07-22 00:23:08</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>tci-5</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_name>info-txt-txt</wp:post_name>
+		<wp:status>private</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/tci-5.jpg</wp:attachment_url>
+		<wp:attachment_url>http://childtheme.dev/wp-content/uploads/2013/07/info.txt.txt</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/tci-5.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2013/07/info.txt.txt]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:800;s:4:"file";s:17:"2013/06/tci-5.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"tci-5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"tci-5-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"tci-5-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:17:"tci-5-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:17:"tci-5-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_key>_wp_attachment_context</wp:meta_key>
+			<wp:meta_value><![CDATA[import]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>tci-6</title>
-		<link>http://flatr.dev/?attachment_id=15</link>
-		<pubDate>Fri, 28 Jun 2013 02:14:49 +0000</pubDate>
+		<title>5557495095_52b329df71_o</title>
+		<link>http://childtheme.dev/?attachment_id=45</link>
+		<pubDate>Mon, 01 Jul 2013 20:55:41 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://flatr.dev/wp-content/uploads/2013/06/tci-6.jpg</guid>
+		<guid isPermaLink="false">http://childtheme.dev/wp-content/uploads/2013/06/5557495095_52b329df71_o.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date>2013-06-28 02:14:49</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 02:14:49</wp:post_date_gmt>
+		<wp:post_id>45</wp:post_id>
+		<wp:post_date>2013-07-01 20:55:41</wp:post_date>
+		<wp:post_date_gmt>2013-07-01 20:55:41</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>tci-6</wp:post_name>
+		<wp:post_name>5557495095_52b329df71_o</wp:post_name>
 		<wp:status>inherit</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/tci-6.jpg</wp:attachment_url>
+		<wp:attachment_url>http://childtheme.dev/wp-content/uploads/2013/06/5557495095_52b329df71_o.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/tci-6.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2013/06/5557495095_52b329df71_o.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1800;s:6:"height";i:720;s:4:"file";s:17:"2013/06/tci-6.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"tci-6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"tci-6-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"tci-6-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:17:"tci-6-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:17:"tci-6-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:35:"2013/06/5557495095_52b329df71_o.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"5557495095_52b329df71_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"5557495095_52b329df71_o-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"5557495095_52b329df71_o-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:35:"5557495095_52b329df71_o-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"basic-thumb";a:4:{s:4:"file";s:35:"5557495095_52b329df71_o-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:35:"5557495095_52b329df71_o-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:8:"Chris JL";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>tci-7</title>
-		<link>http://flatr.dev/?attachment_id=16</link>
-		<pubDate>Fri, 28 Jun 2013 02:14:50 +0000</pubDate>
+		<title>3244495200_2f54937efd_o</title>
+		<link>http://childtheme.dev/?attachment_id=47</link>
+		<pubDate>Mon, 01 Jul 2013 20:56:29 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://flatr.dev/wp-content/uploads/2013/06/tci-7.jpg</guid>
+		<guid isPermaLink="false">http://childtheme.dev/wp-content/uploads/2013/06/3244495200_2f54937efd_o.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date>2013-06-28 02:14:50</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 02:14:50</wp:post_date_gmt>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date>2013-07-01 20:56:29</wp:post_date>
+		<wp:post_date_gmt>2013-07-01 20:56:29</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>tci-7</wp:post_name>
+		<wp:post_name>3244495200_2f54937efd_o</wp:post_name>
 		<wp:status>inherit</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/tci-7.jpg</wp:attachment_url>
+		<wp:attachment_url>http://childtheme.dev/wp-content/uploads/2013/06/3244495200_2f54937efd_o.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/tci-7.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2013/06/3244495200_2f54937efd_o.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:800;s:4:"file";s:17:"2013/06/tci-7.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"tci-7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"tci-7-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"tci-7-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:17:"tci-7-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:17:"tci-7-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1130;s:4:"file";s:35:"2013/06/3244495200_2f54937efd_o.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"3244495200_2f54937efd_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"3244495200_2f54937efd_o-300x211.jpg";s:5:"width";i:300;s:6:"height";i:211;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"3244495200_2f54937efd_o-1024x723.jpg";s:5:"width";i:1024;s:6:"height";i:723;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:35:"3244495200_2f54937efd_o-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"basic-thumb";a:4:{s:4:"file";s:35:"3244495200_2f54937efd_o-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:35:"3244495200_2f54937efd_o-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>tci-8</title>
-		<link>http://flatr.dev/?attachment_id=17</link>
-		<pubDate>Fri, 28 Jun 2013 02:14:51 +0000</pubDate>
+		<title>4327438430_ea3840db3e_o</title>
+		<link>http://childtheme.dev/?attachment_id=49</link>
+		<pubDate>Mon, 01 Jul 2013 20:57:23 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://flatr.dev/wp-content/uploads/2013/06/tci-8.jpg</guid>
+		<guid isPermaLink="false">http://childtheme.dev/wp-content/uploads/2013/06/4327438430_ea3840db3e_o.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>17</wp:post_id>
-		<wp:post_date>2013-06-28 02:14:51</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 02:14:51</wp:post_date_gmt>
+		<wp:post_id>49</wp:post_id>
+		<wp:post_date>2013-07-01 20:57:23</wp:post_date>
+		<wp:post_date_gmt>2013-07-01 20:57:23</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>tci-8</wp:post_name>
+		<wp:post_name>4327438430_ea3840db3e_o</wp:post_name>
 		<wp:status>inherit</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/tci-8.jpg</wp:attachment_url>
+		<wp:attachment_url>http://childtheme.dev/wp-content/uploads/2013/06/4327438430_ea3840db3e_o.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/tci-8.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2013/06/4327438430_ea3840db3e_o.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:800;s:4:"file";s:17:"2013/06/tci-8.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"tci-8-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"tci-8-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"tci-8-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:17:"tci-8-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:17:"tci-8-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1339;s:4:"file";s:35:"2013/06/4327438430_ea3840db3e_o.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"4327438430_ea3840db3e_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"4327438430_ea3840db3e_o-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"4327438430_ea3840db3e_o-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:35:"4327438430_ea3840db3e_o-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"basic-thumb";a:4:{s:4:"file";s:35:"4327438430_ea3840db3e_o-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:35:"4327438430_ea3840db3e_o-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:14:"Liam Helm 2009";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>PageLines- flatr_logo.png</title>
-		<link>http://flatr.dev/?attachment_id=18</link>
-		<pubDate>Fri, 28 Jun 2013 03:27:07 +0000</pubDate>
+		<title>2789759648_102d74b096_o</title>
+		<link>http://childtheme.dev/?attachment_id=51</link>
+		<pubDate>Mon, 01 Jul 2013 20:58:00 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
+		<guid isPermaLink="false">http://childtheme.dev/wp-content/uploads/2013/06/2789759648_102d74b096_o.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date>2013-06-28 03:27:07</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 03:27:07</wp:post_date_gmt>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date>2013-07-01 20:58:00</wp:post_date>
+		<wp:post_date_gmt>2013-07-01 20:58:00</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-flatr_logo-png</wp:post_name>
+		<wp:post_name>2789759648_102d74b096_o</wp:post_name>
 		<wp:status>inherit</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/flatr_logo.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/flatr_logo.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:470;s:6:"height";i:180;s:4:"file";s:22:"2013/06/flatr_logo.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"flatr_logo-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:22:"flatr_logo-300x114.png";s:5:"width";i:300;s:6:"height";i:114;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- flatr_logo.png</title>
-		<link>http://flatr.dev/?attachment_id=19</link>
-		<pubDate>Fri, 28 Jun 2013 03:37:03 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date>2013-06-28 03:37:03</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 03:37:03</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-flatr_logo-png-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/flatr_logo1.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/flatr_logo1.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:470;s:6:"height";i:180;s:4:"file";s:23:"2013/06/flatr_logo1.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"flatr_logo1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:23:"flatr_logo1-300x114.png";s:5:"width";i:300;s:6:"height";i:114;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- responsive_layout.jpg</title>
-		<link>http://flatr.dev/?attachment_id=20</link>
-		<pubDate>Fri, 28 Jun 2013 04:06:00 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
-		<wp:post_date>2013-06-28 04:06:00</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 04:06:00</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-responsive_layout-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/responsive_layout.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/responsive_layout.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1800;s:6:"height";i:1100;s:4:"file";s:29:"2013/06/responsive_layout.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"responsive_layout-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:29:"responsive_layout-300x183.jpg";s:5:"width";i:300;s:6:"height";i:183;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:30:"responsive_layout-1024x625.jpg";s:5:"width";i:1024;s:6:"height";i:625;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:29:"responsive_layout-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:29:"responsive_layout-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- profile0.jpg</title>
-		<link>http://flatr.dev/?attachment_id=21</link>
-		<pubDate>Fri, 28 Jun 2013 15:57:54 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date>2013-06-28 15:57:54</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 15:57:54</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-profile0-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/profile0.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/profile0.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:20:"2013/06/profile0.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"profile0-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"profile0-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:20:"profile0-500x450.jpg";s:5:"width";i:500;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- profile2.jpg</title>
-		<link>http://flatr.dev/?attachment_id=22</link>
-		<pubDate>Fri, 28 Jun 2013 15:58:01 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date>2013-06-28 15:58:01</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 15:58:01</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-profile2-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/profile2.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/profile2.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:20:"2013/06/profile2.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"profile2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"profile2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:20:"profile2-500x450.jpg";s:5:"width";i:500;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- profile1.jpg</title>
-		<link>http://flatr.dev/?attachment_id=23</link>
-		<pubDate>Fri, 28 Jun 2013 15:58:07 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date>2013-06-28 15:58:07</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 15:58:07</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-profile1-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/profile1.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/profile1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:20:"2013/06/profile1.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"profile1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"profile1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:20:"profile1-500x450.jpg";s:5:"width";i:500;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- tci-4.jpg</title>
-		<link>http://flatr.dev/?attachment_id=24</link>
-		<pubDate>Fri, 28 Jun 2013 16:17:15 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>24</wp:post_id>
-		<wp:post_date>2013-06-28 16:17:15</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 16:17:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-tci-4-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/tci-4.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/tci-4.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:800;s:4:"file";s:17:"2013/06/tci-4.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"tci-4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"tci-4-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"tci-4-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:17:"tci-4-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:17:"tci-4-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- tci-5.jpg</title>
-		<link>http://flatr.dev/?attachment_id=27</link>
-		<pubDate>Fri, 28 Jun 2013 18:00:12 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>27</wp:post_id>
-		<wp:post_date>2013-06-28 18:00:12</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 18:00:12</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-tci-5-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/tci-51.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/tci-51.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:800;s:4:"file";s:18:"2013/06/tci-51.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"tci-51-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"tci-51-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"tci-51-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:18:"tci-51-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:18:"tci-51-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- tci-5.jpg</title>
-		<link>http://flatr.dev/?attachment_id=28</link>
-		<pubDate>Fri, 28 Jun 2013 18:06:17 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date>2013-06-28 18:06:17</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 18:06:17</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-tci-5-jpg-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/tci-52.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/tci-52.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:800;s:4:"file";s:18:"2013/06/tci-52.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"tci-52-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"tci-52-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"tci-52-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:18:"tci-52-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:18:"tci-52-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- 5772806615_daa5fac627_o.jpg</title>
-		<link>http://flatr.dev/?attachment_id=29</link>
-		<pubDate>Fri, 28 Jun 2013 18:18:57 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date>2013-06-28 18:18:57</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 18:18:57</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-5772806615_daa5fac627_o-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/5772806615_daa5fac627_o.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/5772806615_daa5fac627_o.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1071;s:4:"file";s:35:"2013/06/5772806615_daa5fac627_o.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"5772806615_daa5fac627_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"5772806615_daa5fac627_o-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"5772806615_daa5fac627_o-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:35:"5772806615_daa5fac627_o-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:35:"5772806615_daa5fac627_o-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- 5176263173_828acf94c8_o.jpg</title>
-		<link>http://flatr.dev/?attachment_id=30</link>
-		<pubDate>Fri, 28 Jun 2013 18:31:26 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date>2013-06-28 18:31:26</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 18:31:26</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-5176263173_828acf94c8_o-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/5176263173_828acf94c8_o.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/5176263173_828acf94c8_o.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1062;s:4:"file";s:35:"2013/06/5176263173_828acf94c8_o.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"5176263173_828acf94c8_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"5176263173_828acf94c8_o-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"5176263173_828acf94c8_o-1024x679.jpg";s:5:"width";i:1024;s:6:"height";i:679;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:35:"5176263173_828acf94c8_o-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:35:"5176263173_828acf94c8_o-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- workspace.png</title>
-		<link>http://flatr.dev/?attachment_id=32</link>
-		<pubDate>Fri, 28 Jun 2013 20:32:24 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date>2013-06-28 20:32:24</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 20:32:24</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-workspace-png</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/workspace.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/workspace.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:470;s:6:"height";i:180;s:4:"file";s:21:"2013/06/workspace.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"workspace-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:21:"workspace-300x114.png";s:5:"width";i:300;s:6:"height";i:114;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- 2789759648_102d74b096_o.jpg</title>
-		<link>http://flatr.dev/?attachment_id=33</link>
-		<pubDate>Fri, 28 Jun 2013 21:20:41 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date>2013-06-28 21:20:41</wp:post_date>
-		<wp:post_date_gmt>2013-06-28 21:20:41</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-2789759648_102d74b096_o-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/2789759648_102d74b096_o.jpg</wp:attachment_url>
+		<wp:attachment_url>http://childtheme.dev/wp-content/uploads/2013/06/2789759648_102d74b096_o.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/06/2789759648_102d74b096_o.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:35:"2013/06/2789759648_102d74b096_o.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:3.5;s:6:"credit";s:0:"";s:6:"camera";s:22:"Canon EOS 400D DIGITAL";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1219503377;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.001";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- tci-8.jpg</title>
-		<link>http://flatr.dev/?attachment_id=34</link>
-		<pubDate>Sat, 29 Jun 2013 01:21:58 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>34</wp:post_id>
-		<wp:post_date>2013-06-29 01:21:58</wp:post_date>
-		<wp:post_date_gmt>2013-06-29 01:21:58</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-tci-8-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/06/tci-81.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/06/tci-81.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:800;s:4:"file";s:18:"2013/06/tci-81.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"tci-81-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"tci-81-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"tci-81-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:18:"tci-81-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:18:"tci-81-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- tci-8.jpg</title>
-		<link>http://flatr.dev/?attachment_id=41</link>
-		<pubDate>Sat, 06 Jul 2013 12:32:58 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>41</wp:post_id>
-		<wp:post_date>2013-07-06 12:32:58</wp:post_date>
-		<wp:post_date_gmt>2013-07-06 12:32:58</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-tci-8-jpg-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/07/tci-8.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/07/tci-8.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:800;s:4:"file";s:17:"2013/07/tci-8.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"tci-8-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"tci-8-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"tci-8-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:17:"tci-8-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:17:"tci-8-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- tci-7.jpg</title>
-		<link>http://flatr.dev/?attachment_id=42</link>
-		<pubDate>Sat, 06 Jul 2013 12:34:24 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date>2013-07-06 12:34:24</wp:post_date>
-		<wp:post_date_gmt>2013-07-06 12:34:24</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-tci-7-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/07/tci-7.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/07/tci-7.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:800;s:4:"file";s:17:"2013/07/tci-7.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"tci-7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"tci-7-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"tci-7-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:17:"tci-7-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:17:"tci-7-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:35:"2013/06/2789759648_102d74b096_o.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:11:"basic-thumb";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:35:"2789759648_102d74b096_o-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:3.5;s:6:"credit";s:0:"";s:6:"camera";s:22:"Canon EOS 400D DIGITAL";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1219503377;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.001";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Hello world!</title>
-		<link>http://flatr.dev/?p=1</link>
+		<link>http://childtheme.dev/?p=1</link>
 		<pubDate>Fri, 28 Jun 2013 00:48:57 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://flatr.dev/?p=1</guid>
@@ -685,7 +220,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
 			<wp:comment_author_email></wp:comment_author_email>
 			<wp:comment_author_url>http://wordpress.org/</wp:comment_author_url>
@@ -702,7 +237,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://flatr.dev/</link>
+		<link>http://childtheme.dev/</link>
 		<pubDate>Fri, 28 Jun 2013 00:48:57 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://flatr.dev/?page_id=2</guid>
@@ -738,7 +273,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://flatr.dev/?page_id=25</link>
+		<link>http://childtheme.dev/?page_id=25</link>
 		<pubDate>Fri, 28 Jun 2013 17:12:57 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://flatr.dev/?page_id=25</guid>
@@ -776,7 +311,7 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas fa
 	</item>
 	<item>
 		<title>Pricing</title>
-		<link>http://flatr.dev/?page_id=26</link>
+		<link>http://childtheme.dev/?page_id=26</link>
 		<pubDate>Fri, 28 Jun 2013 17:57:47 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://flatr.dev/?page_id=26</guid>
@@ -801,16 +336,16 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas fa
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>pl-settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:11:{s:10:"custom-map";a:1:{s:8:"template";a:5:{i:0;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:15:"revsliderrj83ke";s:6:"object";s:11:"plRevSlider";s:3:"sid";s:9:"revslider";s:5:"clone";s:6:"rj83ke";}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areapf23hq";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"pf23hq";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"4y2kuu";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area03w5ot";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"03w5ot";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"iva1lz";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"5pw4og";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3jod1v";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"5nhn5k";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaiz7uol";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"iz7uol";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"1a9a7a";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"erj9a7";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"1a9aa0";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"2mnux9";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area92w6ia";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"92w6ia";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLICallout";s:5:"clone";s:6:"1lb9vb";s:3:"sid";s:8:"icallout";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:4:"file";s:0:"";s:6:"rj83ke";a:6:{s:15:"revslider_count";s:1:"1";s:14:"revslider_bg_1";s:54:"http://flatr.dev/wp-content/uploads/2013/06/tci-52.jpg";s:16:"revslider_text_1";s:50:"<h1>Only $29.99</h1>Find it in the PageLines Store";s:16:"revslider_link_1";s:1:"#";s:25:"revslider_text_location_1";s:9:"left-side";s:22:"revslider_transition_1";s:10:"slideright";}s:6:"5nhn5k";a:4:{s:13:"textbox_title";s:37:"<h3>No Extra Extensions Required</h3>";s:15:"textbox_content";s:200:"Workspace uses the core extensions from PageLines only.  All you need to make this site look amazing is what's already included in DMS.  Drag and drop in the core sections and your colors will follow.";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:8:"textleft";}s:6:"5pw4og";a:6:{s:14:"mediabox_image";s:71:"http://flatr.dev/wp-content/uploads/2013/06/5772806615_daa5fac627_o.jpg";s:14:"mediabox_align";s:6:"center";s:15:"mediabox_height";s:1:"1";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";s:18:"mediabox_animation";s:13:"pla-from-left";}s:6:"erj9a7";a:5:{s:13:"textbox_title";s:53:"<h3>But if you're looking for some extensions...</h3>";s:15:"textbox_content";s:192:"Workspace looks great right out of the box but if you're interested in taking it to the next level, there are a few extensions that Workspace is optimized to work with.  They are:
+			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:11:{s:10:"custom-map";a:1:{s:8:"template";a:5:{i:0;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:15:"revsliderrj83ke";s:6:"object";s:11:"plRevSlider";s:3:"sid";s:9:"revslider";s:5:"clone";s:6:"rj83ke";}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areapf23hq";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"pf23hq";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"4y2kuu";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area03w5ot";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"03w5ot";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"iva1lz";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"5pw4og";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3jod1v";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"5nhn5k";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaiz7uol";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"iz7uol";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"1a9a7a";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"erj9a7";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"1a9aa0";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"2mnux9";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area92w6ia";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"92w6ia";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLICallout";s:5:"clone";s:6:"1lb9vb";s:3:"sid";s:8:"icallout";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:4:"file";s:0:"";s:6:"rj83ke";a:6:{s:15:"revslider_count";s:1:"1";s:14:"revslider_bg_1";s:35:"[pl_child_url]/assets/img/tci-5.jpg";s:16:"revslider_text_1";s:50:"<h1>Only $29.99</h1>Find it in the PageLines Store";s:16:"revslider_link_1";s:1:"#";s:25:"revslider_text_location_1";s:9:"left-side";s:22:"revslider_transition_1";s:10:"slideright";}s:6:"5nhn5k";a:4:{s:13:"textbox_title";s:37:"<h3>No Extra Extensions Required</h3>";s:15:"textbox_content";s:200:"Workspace uses the core extensions from PageLines only.  All you need to make this site look amazing is what's already included in DMS.  Drag and drop in the core sections and your colors will follow.";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:8:"textleft";}s:6:"5pw4og";a:6:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5772806615_daa5fac627_o.jpg";s:14:"mediabox_align";s:6:"center";s:15:"mediabox_height";s:1:"1";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";s:18:"mediabox_animation";s:13:"pla-from-left";}s:6:"erj9a7";a:5:{s:13:"textbox_title";s:53:"<h3>But if you're looking for some extensions...</h3>";s:15:"textbox_content";s:192:"Workspace looks great right out of the box but if you're interested in taking it to the next level, there are a few extensions that Workspace is optimized to work with.  They are:
 
-DepthCharge";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:9:"textright";s:17:"textbox_animation";s:7:"no-anim";}s:6:"2mnux9";a:6:{s:14:"mediabox_image";s:71:"http://flatr.dev/wp-content/uploads/2013/06/5176263173_828acf94c8_o.jpg";s:14:"mediabox_align";s:6:"center";s:15:"mediabox_height";s:1:"1";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";s:18:"mediabox_animation";s:14:"pla-from-right";}s:6:"4y2kuu";a:3:{s:15:"textbox_content";s:72:"<div class="wkspColor">Workspace looks great right out of the box.</div>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";}s:6:"pf23hq";a:3:{s:11:"pl_area_pad";s:4:"80px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:6:"1lb9vb";a:3:{s:13:"icallout_text";s:13:"This is text!";s:13:"icallout_link";s:1:"#";s:18:"icallout_link_text";s:11:"Button Text";}s:13:"page-template";s:7:"pricing";}s:4:"live";a:10:{s:10:"custom-map";a:1:{s:8:"template";a:5:{i:0;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:15:"revsliderrj83ke";s:6:"object";s:11:"plRevSlider";s:3:"sid";s:9:"revslider";s:5:"clone";s:6:"rj83ke";}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areapf23hq";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"pf23hq";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"4y2kuu";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area03w5ot";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"03w5ot";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"iva1lz";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"5pw4og";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3jod1v";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"5nhn5k";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaiz7uol";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"iz7uol";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"1a9a7a";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"erj9a7";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"1a9aa0";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"2mnux9";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area92w6ia";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"92w6ia";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLICallout";s:5:"clone";s:6:"1lb9vb";s:3:"sid";s:8:"icallout";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:4:"file";s:0:"";s:6:"rj83ke";a:6:{s:15:"revslider_count";s:1:"1";s:14:"revslider_bg_1";s:54:"http://flatr.dev/wp-content/uploads/2013/06/tci-52.jpg";s:16:"revslider_text_1";s:50:"<h1>Only $29.99</h1>Find it in the PageLines Store";s:16:"revslider_link_1";s:1:"#";s:25:"revslider_text_location_1";s:9:"left-side";s:22:"revslider_transition_1";s:10:"slideright";}s:6:"5nhn5k";a:4:{s:13:"textbox_title";s:37:"<h3>No Extra Extensions Required</h3>";s:15:"textbox_content";s:200:"Workspace uses the core extensions from PageLines only.  All you need to make this site look amazing is what's already included in DMS.  Drag and drop in the core sections and your colors will follow.";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:8:"textleft";}s:6:"5pw4og";a:6:{s:14:"mediabox_image";s:71:"http://flatr.dev/wp-content/uploads/2013/06/5772806615_daa5fac627_o.jpg";s:14:"mediabox_align";s:6:"center";s:15:"mediabox_height";s:1:"1";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";s:18:"mediabox_animation";s:13:"pla-from-left";}s:6:"erj9a7";a:5:{s:13:"textbox_title";s:53:"<h3>But if you're looking for some extensions...</h3>";s:15:"textbox_content";s:192:"Workspace looks great right out of the box but if you're interested in taking it to the next level, there are a few extensions that Workspace is optimized to work with.  They are:
+DepthCharge";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:9:"textright";s:17:"textbox_animation";s:7:"no-anim";}s:6:"2mnux9";a:6:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5176263173_828acf94c8_o.jpg";s:14:"mediabox_align";s:6:"center";s:15:"mediabox_height";s:1:"1";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";s:18:"mediabox_animation";s:14:"pla-from-right";}s:6:"4y2kuu";a:3:{s:15:"textbox_content";s:72:"<div class="wkspColor">Workspace looks great right out of the box.</div>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";}s:6:"pf23hq";a:3:{s:11:"pl_area_pad";s:4:"80px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:6:"1lb9vb";a:3:{s:13:"icallout_text";s:13:"This is text!";s:13:"icallout_link";s:1:"#";s:18:"icallout_link_text";s:11:"Button Text";}s:13:"page-template";s:7:"pricing";}s:4:"live";a:11:{s:10:"custom-map";a:1:{s:8:"template";a:5:{i:0;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:15:"revsliderrj83ke";s:6:"object";s:11:"plRevSlider";s:3:"sid";s:9:"revslider";s:5:"clone";s:6:"rj83ke";}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areapf23hq";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"pf23hq";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"4y2kuu";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area03w5ot";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"03w5ot";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"iva1lz";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"5pw4og";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"3jod1v";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"5nhn5k";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaiz7uol";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"iz7uol";s:7:"content";a:2:{i:0;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"1a9a7a";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"9";s:6:"offset";s:1:"0";s:6:"newrow";s:4:"true";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"erj9a7";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:6:"object";s:8:"PLColumn";s:5:"clone";s:6:"1a9aa0";s:3:"sid";s:8:"plcolumn";s:4:"span";s:1:"3";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:17:"PageLinesMediaBox";s:5:"clone";s:6:"2mnux9";s:3:"sid";s:8:"mediabox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}i:4;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area92w6ia";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"92w6ia";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLICallout";s:5:"clone";s:6:"1lb9vb";s:3:"sid";s:8:"icallout";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:4:"file";s:0:"";s:6:"rj83ke";a:6:{s:15:"revslider_count";s:1:"1";s:14:"revslider_bg_1";s:35:"[pl_child_url]/assets/img/tci-5.jpg";s:16:"revslider_text_1";s:50:"<h1>Only $29.99</h1>Find it in the PageLines Store";s:16:"revslider_link_1";s:1:"#";s:25:"revslider_text_location_1";s:9:"left-side";s:22:"revslider_transition_1";s:10:"slideright";}s:6:"5nhn5k";a:4:{s:13:"textbox_title";s:37:"<h3>No Extra Extensions Required</h3>";s:15:"textbox_content";s:200:"Workspace uses the core extensions from PageLines only.  All you need to make this site look amazing is what's already included in DMS.  Drag and drop in the core sections and your colors will follow.";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:8:"textleft";}s:6:"5pw4og";a:6:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5772806615_daa5fac627_o.jpg";s:14:"mediabox_align";s:6:"center";s:15:"mediabox_height";s:1:"1";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";s:18:"mediabox_animation";s:13:"pla-from-left";}s:6:"erj9a7";a:5:{s:13:"textbox_title";s:53:"<h3>But if you're looking for some extensions...</h3>";s:15:"textbox_content";s:192:"Workspace looks great right out of the box but if you're interested in taking it to the next level, there are a few extensions that Workspace is optimized to work with.  They are:
 
-DepthCharge";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:9:"textright";s:17:"textbox_animation";s:7:"no-anim";}s:6:"2mnux9";a:6:{s:14:"mediabox_image";s:71:"http://flatr.dev/wp-content/uploads/2013/06/5176263173_828acf94c8_o.jpg";s:14:"mediabox_align";s:6:"center";s:15:"mediabox_height";s:1:"1";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";s:18:"mediabox_animation";s:14:"pla-from-right";}s:6:"4y2kuu";a:3:{s:15:"textbox_content";s:72:"<div class="wkspColor">Workspace looks great right out of the box.</div>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";}s:6:"pf23hq";a:3:{s:11:"pl_area_pad";s:4:"80px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:6:"1lb9vb";a:3:{s:13:"icallout_text";s:13:"This is text!";s:13:"icallout_link";s:1:"#";s:18:"icallout_link_text";s:11:"Button Text";}}}]]></wp:meta_value>
+DepthCharge";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:9:"textright";s:17:"textbox_animation";s:7:"no-anim";}s:6:"2mnux9";a:6:{s:14:"mediabox_image";s:53:"[pl_child_url]/assets/img/5176263173_828acf94c8_o.jpg";s:14:"mediabox_align";s:6:"center";s:15:"mediabox_height";s:1:"1";s:17:"disable_centering";s:1:"0";s:22:"disable_centering-flip";s:1:"0";s:18:"mediabox_animation";s:14:"pla-from-right";}s:6:"4y2kuu";a:3:{s:15:"textbox_content";s:72:"<div class="wkspColor">Workspace looks great right out of the box.</div>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";}s:6:"pf23hq";a:3:{s:11:"pl_area_pad";s:4:"80px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:6:"1lb9vb";a:3:{s:13:"icallout_text";s:13:"This is text!";s:13:"icallout_link";s:1:"#";s:18:"icallout_link_text";s:11:"Button Text";}s:13:"page-template";s:7:"pricing";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Sections</title>
-		<link>http://flatr.dev/?page_id=31</link>
+		<link>http://childtheme.dev/?page_id=31</link>
 		<pubDate>Fri, 28 Jun 2013 19:31:51 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://flatr.dev/?page_id=31</guid>
@@ -835,16 +370,16 @@ DepthCharge";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:9:"textrig
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>pl-settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:11:{s:10:"custom-map";a:1:{s:8:"template";a:6:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaee5230";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"ee5230";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"arahh6";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area7hyy5f";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"7hyy5f";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLheroUnit";s:5:"clone";s:6:"441xz1";s:3:"sid";s:4:"hero";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areakcebtl";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"kcebtl";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"qaq9yt";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawlnaqz";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wlnaqz";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLICallout";s:5:"clone";s:6:"peer3e";s:3:"sid";s:8:"icallout";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:4;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area1q42hu";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"1q42hu";}i:5;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areafvrq0m";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"fvrq0m";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLMasthead";s:5:"clone";s:6:"ldhb4p";s:3:"sid";s:8:"masthead";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"arahh6";a:3:{s:15:"textbox_content";s:67:"<div class="wkspColor">Sections With Workspace Customizations</div>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";}s:6:"441xz1";a:10:{s:24:"pagelines_herounit_title";s:9:"The Hero!";s:26:"pagelines_herounit_tagline";s:46:"With custom button color based on your choice!";s:20:"herounit_button_link";s:1:"#";s:20:"herounit_button_text";s:12:"Custom Color";s:22:"herounit_button_target";s:1:"0";s:27:"herounit_button_target-flip";s:1:"0";s:21:"herounit_button_theme";s:7:"primary";s:24:"pagelines_herounit_image";s:71:"http://flatr.dev/wp-content/uploads/2013/06/2789759648_102d74b096_o.jpg";s:19:"herounit_left_width";s:5:"span8";s:20:"herounit_right_width";s:5:"span4";}s:4:"file";s:0:"";s:6:"ldhb4p";a:10:{s:24:"pagelines_masthead_title";s:8:"Masthead";s:24:"masthead_button_target_1";s:1:"0";s:29:"masthead_button_target_1-flip";s:1:"0";s:24:"masthead_button_target_2";s:1:"0";s:29:"masthead_button_target_2-flip";s:1:"0";s:13:"masthead_menu";s:19:"— Select Menu —";s:26:"pagelines_masthead_tagline";s:38:"Guess what's cool about this masthead?";s:22:"masthead_button_link_1";s:1:"#";s:22:"masthead_button_text_1";s:27:"Your colors are here too!!!";s:23:"masthead_button_theme_1";s:7:"primary";}s:6:"peer3e";a:3:{s:13:"icallout_text";s:15:"Call to action!";s:13:"icallout_link";s:1:"#";s:18:"icallout_link_text";s:22:"Custom Color Here Too!";}s:6:"kcebtl";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:30:"wkspColorSection wkspFontLight";}s:6:"qaq9yt";a:4:{s:13:"textbox_title";s:27:"<h2>Custom CSS Classes</h2>";s:15:"textbox_content";s:370:"Throughout the theme there are custom CSS classes.  You can view them all by opening the style.less file.  Implementing them is really easy.  Simply find the style you want to use (for example, to make the text small and capitalized) and add that class to your html.  Here's an example:
+			<wp:meta_value><![CDATA[a:2:{s:5:"draft";a:11:{s:10:"custom-map";a:1:{s:8:"template";a:6:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaee5230";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"ee5230";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"arahh6";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area7hyy5f";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"7hyy5f";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLheroUnit";s:5:"clone";s:6:"441xz1";s:3:"sid";s:4:"hero";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areakcebtl";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"kcebtl";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"qaq9yt";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawlnaqz";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wlnaqz";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLICallout";s:5:"clone";s:6:"peer3e";s:3:"sid";s:8:"icallout";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:4;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area1q42hu";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"1q42hu";}i:5;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areafvrq0m";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"fvrq0m";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLMasthead";s:5:"clone";s:6:"ldhb4p";s:3:"sid";s:8:"masthead";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"arahh6";a:3:{s:15:"textbox_content";s:67:"<div class="wkspColor">Sections With Workspace Customizations</div>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";}s:6:"441xz1";a:10:{s:24:"pagelines_herounit_title";s:9:"The Hero!";s:26:"pagelines_herounit_tagline";s:46:"With custom button color based on your choice!";s:20:"herounit_button_link";s:1:"#";s:20:"herounit_button_text";s:12:"Custom Color";s:22:"herounit_button_target";s:1:"0";s:27:"herounit_button_target-flip";s:1:"0";s:21:"herounit_button_theme";s:7:"primary";s:24:"pagelines_herounit_image";s:53:"[pl_child_url]/assets/img/2789759648_102d74b096_o.jpg";s:19:"herounit_left_width";s:5:"span8";s:20:"herounit_right_width";s:5:"span4";}s:4:"file";s:0:"";s:6:"ldhb4p";a:10:{s:24:"pagelines_masthead_title";s:8:"Masthead";s:24:"masthead_button_target_1";s:1:"0";s:29:"masthead_button_target_1-flip";s:1:"0";s:24:"masthead_button_target_2";s:1:"0";s:29:"masthead_button_target_2-flip";s:1:"0";s:13:"masthead_menu";s:19:"— Select Menu —";s:26:"pagelines_masthead_tagline";s:38:"Guess what's cool about this masthead?";s:22:"masthead_button_link_1";s:1:"#";s:22:"masthead_button_text_1";s:27:"Your colors are here too!!!";s:23:"masthead_button_theme_1";s:7:"primary";}s:6:"peer3e";a:3:{s:13:"icallout_text";s:15:"Call to action!";s:13:"icallout_link";s:1:"#";s:18:"icallout_link_text";s:22:"Custom Color Here Too!";}s:6:"kcebtl";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:30:"wkspColorSection wkspFontLight";}s:6:"qaq9yt";a:4:{s:13:"textbox_title";s:27:"<h2>Custom CSS Classes</h2>";s:15:"textbox_content";s:370:"Throughout the theme there are custom CSS classes.  You can view them all by opening the style.less file.  Implementing them is really easy.  Simply find the style you want to use (for example, to make the text small and capitalized) and add that class to your html.  Here's an example:
 
-&lt;h1 class=&quot;wkspSmallText&quot;&gt;Make This The Highlight Color&lt;/h1&gt;";s:17:"textbox_font_size";s:2:"18";s:13:"textbox_align";s:8:"textleft";}s:6:"wlnaqz";a:3:{s:11:"pl_area_pad";s:4:"80px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:13:"page-template";s:8:"sections";s:6:"1q42hu";a:4:{s:14:"pl_area_height";s:3:"400";s:13:"pl_area_image";s:35:"[pl_child_url]/assets/img/tci-8.jpg";s:16:"pl_area_parallax";s:1:"1";s:21:"pl_area_parallax-flip";s:1:"0";}}s:4:"live";a:11:{s:10:"custom-map";a:1:{s:8:"template";a:6:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaee5230";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"ee5230";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"arahh6";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area7hyy5f";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"7hyy5f";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLheroUnit";s:5:"clone";s:6:"441xz1";s:3:"sid";s:4:"hero";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areakcebtl";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"kcebtl";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"qaq9yt";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawlnaqz";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wlnaqz";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLICallout";s:5:"clone";s:6:"peer3e";s:3:"sid";s:8:"icallout";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:4;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area1q42hu";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"1q42hu";}i:5;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areafvrq0m";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"fvrq0m";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLMasthead";s:5:"clone";s:6:"ldhb4p";s:3:"sid";s:8:"masthead";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"arahh6";a:3:{s:15:"textbox_content";s:67:"<div class="wkspColor">Sections With Workspace Customizations</div>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";}s:6:"441xz1";a:10:{s:24:"pagelines_herounit_title";s:9:"The Hero!";s:26:"pagelines_herounit_tagline";s:46:"With custom button color based on your choice!";s:20:"herounit_button_link";s:1:"#";s:20:"herounit_button_text";s:12:"Custom Color";s:22:"herounit_button_target";s:1:"0";s:27:"herounit_button_target-flip";s:1:"0";s:21:"herounit_button_theme";s:7:"primary";s:24:"pagelines_herounit_image";s:71:"http://flatr.dev/wp-content/uploads/2013/06/2789759648_102d74b096_o.jpg";s:19:"herounit_left_width";s:5:"span8";s:20:"herounit_right_width";s:5:"span4";}s:4:"file";s:0:"";s:6:"ldhb4p";a:10:{s:24:"pagelines_masthead_title";s:8:"Masthead";s:24:"masthead_button_target_1";s:1:"0";s:29:"masthead_button_target_1-flip";s:1:"0";s:24:"masthead_button_target_2";s:1:"0";s:29:"masthead_button_target_2-flip";s:1:"0";s:13:"masthead_menu";s:19:"— Select Menu —";s:26:"pagelines_masthead_tagline";s:38:"Guess what's cool about this masthead?";s:22:"masthead_button_link_1";s:1:"#";s:22:"masthead_button_text_1";s:27:"Your colors are here too!!!";s:23:"masthead_button_theme_1";s:7:"primary";}s:6:"peer3e";a:3:{s:13:"icallout_text";s:15:"Call to action!";s:13:"icallout_link";s:1:"#";s:18:"icallout_link_text";s:22:"Custom Color Here Too!";}s:6:"kcebtl";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:30:"wkspColorSection wkspFontLight";}s:6:"qaq9yt";a:4:{s:13:"textbox_title";s:27:"<h2>Custom CSS Classes</h2>";s:15:"textbox_content";s:370:"Throughout the theme there are custom CSS classes.  You can view them all by opening the style.less file.  Implementing them is really easy.  Simply find the style you want to use (for example, to make the text small and capitalized) and add that class to your html.  Here's an example:
+&lt;h1 class=&quot;wkspSmallText&quot;&gt;Make This The Highlight Color&lt;/h1&gt;";s:17:"textbox_font_size";s:2:"18";s:13:"textbox_align";s:8:"textleft";}s:6:"wlnaqz";a:3:{s:11:"pl_area_pad";s:4:"80px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:13:"page-template";s:8:"sections";s:6:"1q42hu";a:4:{s:14:"pl_area_height";s:3:"400";s:13:"pl_area_image";s:35:"[pl_child_url]/assets/img/tci-8.jpg";s:16:"pl_area_parallax";s:1:"1";s:21:"pl_area_parallax-flip";s:1:"0";}}s:4:"live";a:11:{s:10:"custom-map";a:1:{s:8:"template";a:6:{i:0;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areaee5230";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"ee5230";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"arahh6";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:1;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area7hyy5f";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"7hyy5f";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLheroUnit";s:5:"clone";s:6:"441xz1";s:3:"sid";s:4:"hero";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:2;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areakcebtl";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"kcebtl";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:16:"PageLinesTextBox";s:5:"clone";s:6:"qaq9yt";s:3:"sid";s:7:"textbox";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:3;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areawlnaqz";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"wlnaqz";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLICallout";s:5:"clone";s:6:"peer3e";s:3:"sid";s:8:"icallout";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}i:4;a:6:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_area1q42hu";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"1q42hu";}i:5;a:7:{s:4:"name";s:0:"";s:5:"class";s:0:"";s:2:"id";s:13:"pl_areafvrq0m";s:6:"object";s:13:"PLSectionArea";s:3:"sid";s:7:"pl_area";s:5:"clone";s:6:"fvrq0m";s:7:"content";a:1:{i:0;a:6:{s:6:"object";s:10:"PLMasthead";s:5:"clone";s:6:"ldhb4p";s:3:"sid";s:8:"masthead";s:4:"span";s:2:"12";s:6:"offset";s:1:"0";s:6:"newrow";s:5:"false";}}}}}s:6:"arahh6";a:3:{s:15:"textbox_content";s:67:"<div class="wkspColor">Sections With Workspace Customizations</div>";s:17:"textbox_font_size";s:2:"30";s:13:"textbox_align";s:10:"textcenter";}s:6:"441xz1";a:10:{s:24:"pagelines_herounit_title";s:9:"The Hero!";s:26:"pagelines_herounit_tagline";s:46:"With custom button color based on your choice!";s:20:"herounit_button_link";s:1:"#";s:20:"herounit_button_text";s:12:"Custom Color";s:22:"herounit_button_target";s:1:"0";s:27:"herounit_button_target-flip";s:1:"0";s:21:"herounit_button_theme";s:7:"primary";s:24:"pagelines_herounit_image";s:53:"[pl_child_url]/assets/img/2789759648_102d74b096_o.jpg";s:19:"herounit_left_width";s:5:"span8";s:20:"herounit_right_width";s:5:"span4";}s:4:"file";s:0:"";s:6:"ldhb4p";a:10:{s:24:"pagelines_masthead_title";s:8:"Masthead";s:24:"masthead_button_target_1";s:1:"0";s:29:"masthead_button_target_1-flip";s:1:"0";s:24:"masthead_button_target_2";s:1:"0";s:29:"masthead_button_target_2-flip";s:1:"0";s:13:"masthead_menu";s:19:"— Select Menu —";s:26:"pagelines_masthead_tagline";s:38:"Guess what's cool about this masthead?";s:22:"masthead_button_link_1";s:1:"#";s:22:"masthead_button_text_1";s:27:"Your colors are here too!!!";s:23:"masthead_button_theme_1";s:7:"primary";}s:6:"peer3e";a:3:{s:13:"icallout_text";s:15:"Call to action!";s:13:"icallout_link";s:1:"#";s:18:"icallout_link_text";s:22:"Custom Color Here Too!";}s:6:"kcebtl";a:3:{s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";s:13:"pl_area_class";s:30:"wkspColorSection wkspFontLight";}s:6:"qaq9yt";a:4:{s:13:"textbox_title";s:27:"<h2>Custom CSS Classes</h2>";s:15:"textbox_content";s:370:"Throughout the theme there are custom CSS classes.  You can view them all by opening the style.less file.  Implementing them is really easy.  Simply find the style you want to use (for example, to make the text small and capitalized) and add that class to your html.  Here's an example:
 
 &lt;h1 class=&quot;wkspSmallText&quot;&gt;Make This The Highlight Color&lt;/h1&gt;";s:17:"textbox_font_size";s:2:"18";s:13:"textbox_align";s:8:"textleft";}s:6:"wlnaqz";a:3:{s:11:"pl_area_pad";s:4:"80px";s:16:"pl_area_parallax";s:1:"0";s:21:"pl_area_parallax-flip";s:1:"0";}s:13:"page-template";s:8:"sections";s:6:"1q42hu";a:4:{s:14:"pl_area_height";s:3:"400";s:13:"pl_area_image";s:35:"[pl_child_url]/assets/img/tci-8.jpg";s:16:"pl_area_parallax";s:1:"1";s:21:"pl_area_parallax-flip";s:1:"0";}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Get Workspace</title>
-		<link>http://flatr.dev/?page_id=35</link>
+		<link>http://childtheme.dev/?page_id=35</link>
 		<pubDate>Sat, 29 Jun 2013 01:34:20 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
 		<guid isPermaLink="false">http://flatr.dev/?page_id=35</guid>
@@ -874,19 +409,19 @@ DepthCharge";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:9:"textrig
 	</item>
 	<item>
 		<title>Call To Action</title>
-		<link>http://flatr.dev/?p=36</link>
-		<pubDate>Sat, 29 Jun 2013 01:34:58 +0000</pubDate>
+		<link>http://childtheme.dev/?p=66</link>
+		<pubDate>Mon, 22 Jul 2013 01:29:21 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://flatr.dev/?p=36</guid>
+		<guid isPermaLink="false">http://childtheme.dev/?p=66</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>36</wp:post_id>
-		<wp:post_date>2013-06-29 01:34:58</wp:post_date>
-		<wp:post_date_gmt>2013-06-29 01:34:58</wp:post_date_gmt>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date>2013-07-22 01:29:21</wp:post_date>
+		<wp:post_date_gmt>2013-07-22 01:29:21</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>36</wp:post_name>
+		<wp:post_name>call-to-action</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>5</wp:menu_order>
@@ -929,19 +464,19 @@ DepthCharge";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:9:"textrig
 	</item>
 	<item>
 		<title></title>
-		<link>http://flatr.dev/?p=37</link>
-		<pubDate>Sat, 29 Jun 2013 01:34:58 +0000</pubDate>
+		<link>http://childtheme.dev/?p=67</link>
+		<pubDate>Mon, 22 Jul 2013 01:29:21 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://flatr.dev/?p=37</guid>
+		<guid isPermaLink="false">http://childtheme.dev/?p=67</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>37</wp:post_id>
-		<wp:post_date>2013-06-29 01:34:58</wp:post_date>
-		<wp:post_date_gmt>2013-06-29 01:34:58</wp:post_date_gmt>
+		<wp:post_id>67</wp:post_id>
+		<wp:post_date>2013-07-22 01:29:21</wp:post_date>
+		<wp:post_date_gmt>2013-07-22 01:29:21</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>37</wp:post_name>
+		<wp:post_name>67</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>4</wp:menu_order>
@@ -984,19 +519,19 @@ DepthCharge";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:9:"textrig
 	</item>
 	<item>
 		<title></title>
-		<link>http://flatr.dev/?p=38</link>
-		<pubDate>Sat, 29 Jun 2013 01:34:58 +0000</pubDate>
+		<link>http://childtheme.dev/?p=68</link>
+		<pubDate>Mon, 22 Jul 2013 01:29:21 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://flatr.dev/?p=38</guid>
+		<guid isPermaLink="false">http://childtheme.dev/?p=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>38</wp:post_id>
-		<wp:post_date>2013-06-29 01:34:58</wp:post_date>
-		<wp:post_date_gmt>2013-06-29 01:34:58</wp:post_date_gmt>
+		<wp:post_id>68</wp:post_id>
+		<wp:post_date>2013-07-22 01:29:21</wp:post_date>
+		<wp:post_date_gmt>2013-07-22 01:29:21</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>38</wp:post_name>
+		<wp:post_name>68</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
@@ -1039,19 +574,19 @@ DepthCharge";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:9:"textrig
 	</item>
 	<item>
 		<title></title>
-		<link>http://flatr.dev/?p=39</link>
-		<pubDate>Sat, 29 Jun 2013 01:34:58 +0000</pubDate>
+		<link>http://childtheme.dev/?p=69</link>
+		<pubDate>Mon, 22 Jul 2013 01:29:21 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://flatr.dev/?p=39</guid>
+		<guid isPermaLink="false">http://childtheme.dev/?p=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date>2013-06-29 01:34:58</wp:post_date>
-		<wp:post_date_gmt>2013-06-29 01:34:58</wp:post_date_gmt>
+		<wp:post_id>69</wp:post_id>
+		<wp:post_date>2013-07-22 01:29:21</wp:post_date>
+		<wp:post_date_gmt>2013-07-22 01:29:21</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>39</wp:post_name>
+		<wp:post_name>69</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>2</wp:menu_order>
@@ -1094,19 +629,19 @@ DepthCharge";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:9:"textrig
 	</item>
 	<item>
 		<title></title>
-		<link>http://flatr.dev/?p=40</link>
-		<pubDate>Sat, 29 Jun 2013 01:34:58 +0000</pubDate>
+		<link>http://childtheme.dev/?p=70</link>
+		<pubDate>Mon, 22 Jul 2013 01:29:21 +0000</pubDate>
 		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false">http://flatr.dev/?p=40</guid>
+		<guid isPermaLink="false">http://childtheme.dev/?p=70</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date>2013-06-29 01:34:58</wp:post_date>
-		<wp:post_date_gmt>2013-06-29 01:34:58</wp:post_date_gmt>
+		<wp:post_id>70</wp:post_id>
+		<wp:post_date>2013-07-22 01:29:21</wp:post_date>
+		<wp:post_date_gmt>2013-07-22 01:29:21</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>40</wp:post_name>
+		<wp:post_name>70</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
@@ -1145,68 +680,6 @@ DepthCharge";s:17:"textbox_font_size";s:2:"20";s:13:"textbox_align";s:9:"textrig
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- tci-8.jpg</title>
-		<link>http://flatr.dev/?attachment_id=43</link>
-		<pubDate>Sat, 06 Jul 2013 12:36:20 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>43</wp:post_id>
-		<wp:post_date>2013-07-06 12:36:20</wp:post_date>
-		<wp:post_date_gmt>2013-07-06 12:36:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-tci-8-jpg-3</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/07/tci-81.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/07/tci-81.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:800;s:4:"file";s:18:"2013/07/tci-81.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"tci-81-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"tci-81-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"tci-81-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:18:"tci-81-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:18:"tci-81-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>PageLines- tci-6.jpg</title>
-		<link>http://flatr.dev/?attachment_id=44</link>
-		<pubDate>Sat, 06 Jul 2013 12:37:38 +0000</pubDate>
-		<dc:creator>transforme</dc:creator>
-		<guid isPermaLink="false"></guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>44</wp:post_id>
-		<wp:post_date>2013-07-06 12:37:38</wp:post_date>
-		<wp:post_date_gmt>2013-07-06 12:37:38</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>pagelines-tci-6-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://flatr.dev/wp-content/uploads/2013/07/tci-6.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1800;s:6:"height";i:720;s:4:"file";s:17:"2013/07/tci-6.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"tci-6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"tci-6-300x120.jpg";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"tci-6-1024x409.jpg";s:5:"width";i:1024;s:6:"height";i:409;s:9:"mime-type";s:10:"image/jpeg";}s:12:"aspect-thumb";a:4:{s:4:"file";s:17:"tci-6-900x600.jpg";s:5:"width";i:900;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"landscape-thumb";a:4:{s:4:"file";s:17:"tci-6-900x450.jpg";s:5:"width";i:900;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/07/tci-6.jpg]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
