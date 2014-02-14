@@ -26,7 +26,7 @@ class PLQuotes extends PageLinesSection {
 
 		?>
 
-		<style>.quote-container, .quotes, .quote-content { background: <?php echo $background_color;?>; }</style>
+		<style>.quote-container, .quotes, .quote-content { background: #<?php echo $background_color;?>; }</style>
 		
 		 <script>
 		      jQuery(document).ready(function(jQuery) {
