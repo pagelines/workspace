@@ -1,5 +1,9 @@
 # CHANGELOG
 
+v2.0.2
+
+* Added a missing hashtag to quotes section
+
 v2.0.1
 
 * Added CHANGELOG
