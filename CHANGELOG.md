@@ -1,8 +1,12 @@
 # CHANGELOG
 
+v2.0.3
+
+* Removed unnecessary folder from assets directory.
+
 v2.0.2
 
-* Added a missing hashtag to quotes section
+* Added missing hashtag to Quotes section
 
 v2.0.1
 
