@@ -1,5 +1,9 @@
 # CHANGELOG
 
+v2.0.4
+
+* Updated theme pl-config.json for DMS 2.1
+
 v2.0.3
 
 * Removed unnecessary folder from assets directory.
