@@ -82,5 +82,3 @@ class workspaceTheme {
 }
 
 new workspaceTheme;
-
-add_filter( 'render_css_posix_', '__return_true' ); //Flywheel Support
