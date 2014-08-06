@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### v.2.0.6
+
+* Updated theme graphics...again
+
 ### v.2.0.5
 
 * Updated theme graphics
